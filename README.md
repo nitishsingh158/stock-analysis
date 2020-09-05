@@ -11,20 +11,20 @@ The purpose of this analysis is to calculate and categorize the yearly return of
 The results of the VBA run are shown below. Based on the table we can see that almost all of the stocks were in the green for 2017 with only "TERP" showing a net loss of -7.2%. The top-performing stocks for the year were "DQ", "SEDG", "ENPH" and "FSLR" respectively, with DQ almost doubling in price by the end of the year. It seems that this year was generally a good one for sustainable energy stocks and anybody invested in the stocks listed below except for "TERP" would have seen a positive return on investment. 
 
 <p>&nbsp;</p>
-<img src = "resources/VBA_Challenge_Stock_Results_2017.png"/>
+<img src = "Resources/VBA_Challenge_Stock_Results_2017.png"/>
 <p>&nbsp;</p>
 
-<img src = "resources/VBA_Challenge_2017.png"/>
+<img src = "Resources/VBA_Challenge_2017.png"/>
 <p>&nbsp;</p>
 
 #### 2018  Stock Analysis Results
 The results of the VBA run are shown below. Based on the table we can see that almost all of the stocks were in the red for the year 2018 with only "ENPH" and "RUN" showing a profit. The average loss for the stocks in the red was -26.8% with DQ losing approximately 63% of its value bu the end of the year. It seems that this year was overall a negative year for the sustainable energy stocks and anybody invested in the stocks listed below except "ENPH" and "RUN" would have seen a negative return on investment. 
 
 <p>&nbsp;</p>
-<img src = "resources/VBA_Challenge_Stock_Results_2018.png"/>
+<img src = "Resources/VBA_Challenge_Stock_Results_2018.png"/>
 <p>&nbsp;</p>
 
-<img src = "resources/VBA_Challenge_2018.png"/>
+<img src = "Resources/VBA_Challenge_2018.png"/>
 <p>&nbsp;</p>
 
 ### **Summary : Code Refactoring**
