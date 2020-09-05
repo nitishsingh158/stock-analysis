@@ -27,7 +27,7 @@ The results of the VBA run are shown below. Based on the table we can see that a
 <img src = "Resources/VBA_Challenge_2018.png"/>
 <p>&nbsp;</p>
 
-### **Summary : Code Refactoring**
+### **Summary: Code Refactoring**
 Code Refactoring is a way of restructuring and optimizing already written code to improve its flow, readability, and execution.
 - #### Advantages of Refactoring the code:
     - The code is easy to understand and follow for others collaborating on the project. 
