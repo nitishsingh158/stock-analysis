@@ -4,7 +4,7 @@
 The project analyses stock price data of fifteen green energy stocks for 2017 and 2018 to calculate the annual returns based on the daily stock closing price.  
 
 ### **Purpose**
-The purpose of this analysis is to calculate and categorize the yearly return of stock prices of companies associated with renewable energy and green technology. The analysis results will help inform investors on the performance of the stock and whether it has a positive or negative return for a given year. 
+The purpose of this analysis in `VBA_Challenge.xlsm` is to calculate and categorize the yearly return of stock prices of companies associated with renewable energy and green technology. The analysis results will help inform investors on the performance of the stock and whether it has a positive or negative return for a given year. 
 
 ### **Results**
 #### 2017 Stock Analysis Results
